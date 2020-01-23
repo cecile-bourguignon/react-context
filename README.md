@@ -4,3 +4,8 @@ This project is a proof of concept of React Context API and how it can allow us 
 
 https://reactjs.org/docs/context.html
  
+ ## Files
+ The entire logic is into 
+ - App.js
+ - Settings-context.js where is defined
+ - Settings-list.js
